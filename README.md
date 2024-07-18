@@ -1,4 +1,4 @@
-Here's the code to create **Figure 3** from the research paper Y chromosome sequence and epigenomic reconstruction across human populations.
+Here's the code to create **Figure 3** from the research paper *Y chromosome sequence and epigenomic reconstruction across human populations*.
 
 ![image](https://github.com/user-attachments/assets/21ba425a-5a68-4528-97c7-779554b27639)
 
